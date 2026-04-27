@@ -4,5 +4,6 @@
 
 body{
     background-color: rgb(138, 43, 226);
+    display: flex;
 }
  
