@@ -11,8 +11,12 @@ body{margin: 19px;
 }
  
 
-a(
-    
-)
+a{
 
+    color: black;
+}
 
+.links{
+    display: flex;
+    flex-direction: column;
+}
